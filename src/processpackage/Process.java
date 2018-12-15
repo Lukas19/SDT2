@@ -137,3 +137,6 @@ public class Process implements ProcessInterface{
     }
 
 }
+
+
+//NOMBRE DEL nodo | objeto métodos
